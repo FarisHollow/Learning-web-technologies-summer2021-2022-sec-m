@@ -1,0 +1,28 @@
+<person>
+<info>
+      <name>John Carter</name>
+      <sl_no> 23</sl_no>
+	  <date>25</date>
+	  <month>12</month>
+	  <year>2015</year>
+	  
+</info>
+<info>
+      <name>Bob Marshal</name>
+      <sl_no> 29</sl_no>
+	  <date>13</date>
+	  <month>01</month>
+	  <year>1999</year>
+	  
+</info>
+<info>
+      <name>Clark Kent</name>
+      <sl_no> 35</sl_no>
+	  <date>17</date>
+	  <month>06</month>
+	  <year>2005</year>
+	  
+</info>
+
+ 
+</person>	  
